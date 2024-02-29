@@ -5,6 +5,7 @@ from sklearn.linear_model import LinearRegression
 import joblib
 import pickle
 import flask
+import numpy
 
 st.title("ipl prediction")
 
